@@ -37,10 +37,6 @@ def main():
 
 
 
-    # TODO: open args.filename and read its lines. For each line, numbered starting
-    #   at 1, print "<number>: <line>" when the line contains args.pattern.
-    #   If the --ignore-case flag was given, match without caring about upper/lower
-    #   case (hint: compare the lowercased versions of both).
 
 
 
